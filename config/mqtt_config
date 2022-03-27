@@ -1,0 +1,16 @@
+# Camera topics
+mqtt/cam0
+mqtt/cam1
+mqtt/cam2
+mqtt/cam3
+mqtt/cam4
+mqtt/cam5
+mqtt/cam6
+mqtt/cam7
+mqtt/cam8
+mqtt/cam9
+mqtt/cam10
+
+# Kitchen Control Application topics
+mqtt/kca0
+mqtt/kca1
