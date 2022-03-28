@@ -36,7 +36,7 @@ Two replicas of execution control system could be installed for redundancy/autom
   - Order completion by robots or ovens
   - Events from cameras when one of cooking steps is failed
   - Robot failures  
-  More details about possible interactions could be found in [apps/kitchen_control_app.py] file.
+  - More details about possible interactions could be found in design skeleton file -> [apps/kitchen_control_app.py](apps/kitchen_control_app.py)
 - Q: What are the differences between cooking 1 pizza, 2 pizzas, and N pizzas?
 - A: The main issue with simultaneous cooking of N pizzas is more complex synchronization between robots and ovens. 
   Since more robots are going to be added in the nearest time we should consider now that number of robots before/after ovens is more than number of ovens.
