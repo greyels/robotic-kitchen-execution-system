@@ -1,5 +1,0 @@
-{
-  "robot_id": "",
-  "state": "[idle, busy, out_of_order]",
-  "mqtt_topic": ""
-}

@@ -3,5 +3,7 @@
   "client_id": "",
   "kitchen_id": "",
   "status": "[new, in_progress, completed, failed]",
-  "prepared_by": "[robot_ids]"
+  "robot_id": "",
+  "oven_id": "",
+  "prepared_by": "[robot_ids, oven_ids]"
 }

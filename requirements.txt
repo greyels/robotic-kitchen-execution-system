@@ -1,2 +1,7 @@
-flask
-paho-mqtt
+click==8.0.4
+Flask==2.0.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+paho-mqtt==1.6.1
+Werkzeug==2.0.3

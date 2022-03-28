@@ -1,0 +1,7 @@
+{
+  "robot_id": "",
+  "robot_type": "[before_oven, after_oven]",
+  "state": "[idle, busy, out_of_order]",
+  "mqtt_topic": "",
+  "failures_count": ""
+}
